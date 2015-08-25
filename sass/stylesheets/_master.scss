@@ -104,7 +104,7 @@ html, body, .flexbox{
   }
 
   p{
-    font-family: 'Merriweather', serif;
+    font-family: 'Open Sans', sans-serif;
     font-size: 16px;
     line-height: 2.2;
     color: #666;
@@ -296,4 +296,17 @@ a.toggle-nav {position: absolute;
   background-color: #EA6045;
   -webkit-animation: backgroundColors2 20s infinite alternate;
   text-align: center;
+}
+
+.portItem{
+  border:1px solid white;
+  color:white;
+  padding:5px 8px;
+  font-size: 12px;
+  font-family: 'Open Sans', sans-serif;
+
+}
+
+.img-responsive {
+  margin: 0 auto;
 }
